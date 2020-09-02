@@ -6,7 +6,9 @@ namespace LookAndSay_Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Input the starting number");
             var start = long.Parse(Console.ReadLine());
+            Console.WriteLine("Input the number of numbers in the sequence");
             var n = int.Parse(Console.ReadLine());
 
             var result = new long[n];
