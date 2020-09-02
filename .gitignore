@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/LookAndSay-Test/.vs/LookAndSay-Test/v16
+/LookAndSay-Test/LookAndSay-Test/bin/Debug/netcoreapp3.1
+/LookAndSay-Test/LookAndSay-Test/obj/Debug/netcoreapp3.1
+/LookAndSay-Test/LookAndSay-Test/obj

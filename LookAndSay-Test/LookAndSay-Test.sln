@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookAndSay-Test", "LookAndSay-Test\LookAndSay-Test.csproj", "{C440049A-41A7-490F-B215-F8F37D4705B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C440049A-41A7-490F-B215-F8F37D4705B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C440049A-41A7-490F-B215-F8F37D4705B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C440049A-41A7-490F-B215-F8F37D4705B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C440049A-41A7-490F-B215-F8F37D4705B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {516F0E55-A203-45B7-8593-30807E94B5D7}
+	EndGlobalSection
+EndGlobal
